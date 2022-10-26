@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Saldrul ----> Salvador Villaschi.
+- 👀 I’m interested in working on Python
+- 🌱 I’m currently learning how to program on Python  
+- 💞️ I’m looking to collaborate on any project i can.
+- 📫 How to reach me salwy2704@gmail.com  
